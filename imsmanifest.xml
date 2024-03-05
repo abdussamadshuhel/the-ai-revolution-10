@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<manifest identifier="RSNGqxj61F7XPK-SHzt1esVHPYLmGNlyYJl11uXm" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>The AI Revolution - 10 Ways to Get Rich Quicker Than Everyone Else</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>The AI Revolution - 10 Ways to Get Rich Quicker Than Everyone Else</title>
+        <adlcp:datafromlms>eyJjcHYiOiJZSmwxMXVYbSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/1b4e5466.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/dd1e36fb.js" />
+<file href="scormcontent/lib/rise/4a33c31c.css" />
+<file href="scormcontent/lib/rise/0eb4b852.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/o93_AO/stock-image.jpg" />
+<file href="scormcontent/assets/8MwfdVnC985UfHan_transcoded-TFXZs2IhTY6MdnBJ-invideo-ai-1080_2520AI__2520Your_2520Future_2520Money-Maker_2520__2520Module_25201_25202024-01-12_2520%281%29.0000000.jpg" />
+<file href="scormcontent/assets/t85M0Mnh6urcXDvH_transcoded-TFXZs2IhTY6MdnBJ-invideo-ai-1080_2520AI__2520Your_2520Future_2520Money-Maker_2520__2520Module_25201_25202024-01-12_2520%281%29.mp4" />
+<file href="scormcontent/assets/seOXyX8yoSyMuQpX_mountains.jpg" />
+<file href="scormcontent/assets/wxAbvgJCjJRsfrIZ_LcV_cTawA0HphLn3.jpg" />
+<file href="scormcontent/assets/XFki-eq-2LDiSbUA_lEtxw3MB2bLbg0Ua.png" />
+<file href="scormcontent/assets/yEJWfIal_R5knPAH_ir0kqNrlrE4sydQS.jpg" />
+<file href="scormcontent/assets/0mULnTgxTQiy4flQ_WZy8CCC7uNX6D_4r.jpg" />
+<file href="scormcontent/assets/c8gjalhcw6uCzO59_r9kKfSmMLtRMGp6_.jpg" />
+<file href="scormcontent/assets/zo1leZ-54-RtIw-d_RD0Yesc5qpFqv0ZD.jpg" />
+<file href="scormcontent/assets/57LpmtknLlKOxf3d__Aa_eXGcyXONEAE9.jpg" />
+<file href="scormcontent/assets/JIQcEWF1luQPmU33_tSfHQgOLlfurtbJ8.jpg" />
+<file href="scormcontent/assets/5t8CXTjfozolrKUy_arcTSIixiQ0uoCdx.jpg" />
+<file href="scormcontent/assets/ibP0AIzATMbLi7wA_msKbWsPKU3yH2jlD.jpg" />
+<file href="scormcontent/assets/Aw9D85HqAHpgCxrw_nk2cgE7Y-a4comrE.jpg" />
+<file href="scormcontent/assets/N1rpyUbSE_2VjdMK_l73urhO3td_iSr3Q.jpg" />
+<file href="scormcontent/assets/oYPzvsnlY7B-WpVQ_peBl8OlQ831yOhkQ.jpg" />
+<file href="scormcontent/assets/xf0FTY8dlZ58yK3E_WpCrxiSAawgkj-Q6.jpg" />
+<file href="scormcontent/assets/xF3bruzl3Rglss5t_ESgUCRhwkj5oFZ_t.jpg" />
+<file href="scormcontent/assets/c8jrsv8MdV_rqYhZ_McOOKa0ldX99Bd_5.jpg" />
+<file href="scormcontent/assets/t_RvqEQabWiXohT__0TQr_vH-0h7s0Ry4.jpg" />
+<file href="scormcontent/assets/g_Krtclz33dRzjph_CDN4m0dd3GpsGr-1.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
